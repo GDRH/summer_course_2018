@@ -14,9 +14,12 @@ Dupa ce il copiem folosind un text editor cum ar fi, SciTE, salvam fisierul si d
 Acesta se poate gasi in coltul din dreapta jos al IDE-ului.![Serial Port](openmv_serial_port.jpg)
 
 
-#### 4.Instalarea PuTTY-ului [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html si utilizarea lui
+#### 4.Instalarea PuTTY-ului si utilizarea lui
+
+[PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 Vom lua versiunea de putty.zip de la Alternative binary file dupa care vom deschide PUTTY.exe unde va trebui sa introducem Serial Port-ul si Speed-ul camerei.
 Speed-ul este 115200 iar Port-ul se gaseste in primul pas.
 ![PuTTY](putty.jpg)
 ![PuTTY.CMD](putty_cmd.jpg)
+
